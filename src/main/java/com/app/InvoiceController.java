@@ -47,10 +47,5 @@ public class InvoiceController {
                     .body(null);
         }
     }
-
-//    @GetMapping("/download/{id}")
-//    public ResponseEntity<Resource> downloadPdf(@PathVariable String id) {
-//        // Call service to download PDF
-//    }
 }
 
